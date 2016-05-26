@@ -5,10 +5,10 @@ Eclipse library project based on:<br/>
 
 **Requires:**
 - `Android 2.3 (API 10) SDK Platform`
-- [dandar3/android-google-play-services-base](https://github.com/dandar3/android-google-play-services-base)
-- [dandar3/android-google-play-services-basement](https://github.com/dandar3/android-google-play-services-basement)
 - [dandar3/android-google-firebase-common](https://github.com/dandar3/android-google-firebase-common)
 - [dandar3/android-google-firebase-iid](https://github.com/dandar3/android-google-firebase-iid)
+- [dandar3/android-google-play-services-base](https://github.com/dandar3/android-google-play-services-base)
+- [dandar3/android-google-play-services-basement](https://github.com/dandar3/android-google-play-services-basement)
 
 **References:**
 - https://developers.google.com/android/guides/releases
